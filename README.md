@@ -1,6 +1,6 @@
 # ASD
 
-Repozytorium zawiera zestaw pięciu zadań programistycznych zrealizowanych w ramach nauki podstaw algorytmiki i matematyki w języku Python. Zadania koncentrują się na tematach takich jak: liczby palindromiczne, doskonałe, Armstronga, liczby pierwsze Mersenne’a oraz przybliżenie liczby e.
+Repozytorium zawiera zestaw pięciu zadań programistycznych zrealizowanych w ramach nauki podstaw algorytmiki i matematyki w języku C++. Zadania koncentrują się na tematach takich jak: liczby palindromiczne, doskonałe, Armstronga, liczby pierwsze Mersenne’a oraz przybliżenie liczby e.
 
 ## Spis zadań:
 - `zad1_palindromy.cpp`: liczby, które są palindromami i ich kwadraty również
