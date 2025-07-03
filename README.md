@@ -1,4 +1,4 @@
-# ASD
+# Algorytmy i Struktury Danych
 
 Repozytorium zawiera zestaw pięciu zadań programistycznych zrealizowanych w ramach nauki podstaw algorytmiki i matematyki w języku C++. Zadania koncentrują się na tematach takich jak: liczby palindromiczne, doskonałe, Armstronga, liczby pierwsze Mersenne’a oraz przybliżenie liczby e.
 
